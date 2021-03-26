@@ -139,7 +139,7 @@ def build_model(df, random_state=0, test_size=0.2):
     model = LinearRegression()
     # print(f'model in  :{type(model)}')
         
-    train = model.fit(x_train, y_train)
+    model.fit(x_train, y_train)
         
     score = model.score(x_test, y_test)
     # print(type(model))
@@ -173,7 +173,7 @@ def start():
     make_regression(df, 'CL', cl_degree_list) 
     make_regression(df, 'vdss', vd_degree_list)
 
-    model = build_model(df, random_state, test_size)
+    build_model(df, random_state, test_size)
     
     st.write("Made by Dan Luu 2021 with Streamlit's Framework")
 
