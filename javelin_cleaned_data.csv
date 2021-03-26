@@ -1,0 +1,990 @@
+,drug_name,vdss,CL,moka_logd74,ionstate
+1,(-)dOTC,1.18,3.0,-1.9,neutral
+2,(+)dOTC,0.84,3.9,-1.9,neutral
+3,"1,3-DCQA",0.79,8.7,-1.6,anionic
+4,16-acetyl gitoxin,0.78,0.18,0.93,neutral
+5,1-Aminocyclopropanecarboxylic Acid,0.73,1.5,-2.4,zwitterionic
+11,852A,3.1,7.7,1.8,cationic
+12,Abacavir,0.84,13.0,0.99,neutral
+14,Abexinostat,2.6,16.33,1.7,neutral
+16,Acamprosate,0.3,3.75,-5.2,anionic
+18,Acebutolol,1.7,10.0,-0.23,cationic
+19,Acecainide (N-acetylprocainamide),1.9,4.0,-0.26,cationic
+20,Acenocoumarol,0.24,1.28,0.12,anionic
+21,Acetaminophen,1.0,5.0,0.76,neutral
+22,Acetazolamide,0.37,0.65,-1.6,neutral
+23,"Acetylcysteine, N-",0.55,3.1,-3.8,anionic
+25,Acetylsalicylic Acid,0.22,12.0,-1.7,anionic
+27,Acivicin,0.5,0.69,-2.7,zwitterionic
+29,Actisomide,0.58,6.79,2.6,cationic
+30,Acyclovir,0.71,4.7,-1.8,neutral
+31,Adefovir,0.42,3.7,-6.8,anionic
+32,Adinazolam,0.98,6.2,1.3,neutral
+33,AFN-1252,0.43,0.9,2.1,neutral
+34,AG-EE-388 ZW,0.28,2.04,2.4,anionic
+35,Ajmaline,4.0,9.8,1.5,cationic
+36,Albuterol (salbutamol),1.9,7.8,-1.5,cationic
+37,Alcuronium,0.32,1.3,-4.8,neutral
+41,Alfentanil,0.45,3.9,2.7,neutral
+42,Alfuzosin,1.5,5.9,1.8,cationic
+43,Alinidine,2.72,12.0,1.7,cationic
+44,Alizapride,1.6,6.6,0.91,cationic
+47,Almokalant,1.8,11.3,1.4,cationic
+49,Almotriptan,2.2,8.9,0.63,cationic
+50,Alosetron,1.1,8.7,1.4,neutral
+51,Alpiropride,2.3,5.47,-0.1,cationic
+52,Alprazolam,0.8,0.74,1.9,neutral
+53,Alprenolol,3.2,15.0,0.64,cationic
+55,Alvimopan,0.43,5.84,0.28,zwitterionic
+57,Amdinocillin,0.37,6.3,0.068,zwitterionic
+58,Amezinium,4.0,5.1,-0.75,neutral
+62,Cefixime,0.24,1.0,-6.7,anionic
+63,"Aminocamptothecin, 9-",2.2,6.5,1.1,neutral
+64,"Aminohexanoic acid, 6-",0.39,2.5,-2.1,zwitterionic
+65,Aminolevulinic acid,0.12,1.88,-2.8,zwitterionic
+68,Amiprilose,1.04,3.48,-2.4,cationic
+73,Amoxicillin,0.25,3.3,-1.3,zwitterionic
+74,Antazoline,3.9,19.67,0.28,cationic
+75,AMP579,0.84,12.0,2.6,neutral
+77,Amphotericin B,0.62,0.17,0.41,zwitterionic
+78,Ampicillin,0.22,2.8,-0.85,zwitterionic
+79,Amrinone,1.3,8.9,-0.73,neutral
+80,Amsacrine,1.6,4.3,0.85,cationic
+81,Amsalog,0.3,2.6,0.63,cationic
+82,Amygdalin,0.21,1.88,-3.8,neutral
+84,Anidulafungin,0.57,0.21,1.6,neutral
+85,Antipyrine,0.77,0.64,0.19,neutral
+86,Antofloxacin,2.42,2.2,-0.73,zwitterionic
+87,Apalcillin,0.16,1.9,-1.6,anionic
+88,Apixaban,0.3,0.8,2.5,neutral
+91,Aprepitant,0.94,1.0,4.1,neutral
+92,AR-709,5.06,7.49,3.3,neutral
+94,Argatroban,0.17,5.0,-0.84,zwitterionic
+95,Aripiprazole,4.9,0.83,4.7,cationic
+97,Dexmedetomidine,1.6,11.0,2.7,neutral
+99,Asarone,1.0,8.8,2.7,neutral
+100,Ascorbic acid,0.35,1.05,-5.5,anionic
+102,Aspoxicillin,0.27,2.82,-3.8,anionic
+103,Astragaloside IV,0.12,0.74,-0.048,neutral
+104,Astromicin,0.23,1.37,-7.7,cationic
+105,Asunaprevir,2.77,11.78,2.4,anionic
+106,Atenolol,0.95,2.5,-1.4,cationic
+107,Atipamizole,2.7,19.6,2.4,neutral
+108,Atomoxetine,0.85,9.3,1.5,cationic
+109,Atovaquone,0.6,0.15,3.4,anionic
+110,Atracurium,0.1,5.7,1.7,neutral
+111,Atropine,3.3,7.6,0.6,cationic
+112,Avarofloxacin,1.13,0.78,0.44,zwitterionic
+113,Avibactam,0.24,2.76,-5.6,neutral
+114,Avitriptan,0.87,6.44,1.4,cationic
+115,Avosentan,0.27,0.52,0.026,anionic
+118,Azapropazone,0.12,0.14,0.098,anionic
+123,Azlocillin,0.26,2.5,-2.5,anionic
+125,Baclofen,0.65,1.7,-1.2,zwitterionic
+126,Bambuterol,1.6,18.0,-0.27,cationic
+128,Batanopride,1.5,9.32,0.15,cationic
+129,Batifiban,0.42,2.88,-6.0,zwitterionic
+131,BB 83698,1.1,3.1,2.1,neutral
+133,Beclabuvir,0.5,1.33,0.74,zwitterionic
+135,Belinostat,0.8,23.6,1.4,neutral
+136,Bendamustine,0.22,4.49,0.65,zwitterionic
+137,Benperidol,3.8,8.3,2.9,cationic
+138,Benzydamine,1.53,2.28,0.76,cationic
+141,Betamethasone,1.3,2.8,1.7,neutral
+142,Betamipron,0.28,9.2,-2.5,anionic
+143,Betaxolol,4.8,3.4,0.81,cationic
+144,Bevantolol,0.67,5.5,1.9,cationic
+146,Biapenem,0.2,2.5,-5.4,anionic
+147,Bidisomide,2.6,5.43,1.8,cationic
+148,Bilastine,0.61,2.87,1.3,zwitterionic
+149,Bilobalide,2.5,10.0,-3.4,neutral
+154,Brexpiprazole,1.46,0.34,2.6,cationic
+155,Biricodar,1.34,8.5,5.4,neutral
+157,Bisoprolol,2.4,3.7,0.46,cationic
+159,Bizelesin,0.05,0.5,5.9,neutral
+161,BLP1654,0.24,1.6,-2.3,zwitterionic
+162,BMS-214662,0.84,9.6,3.5,neutral
+164,Bosentan,0.29,2.1,0.76,anionic
+165,Brivaracetam,0.56,0.75,0.82,neutral
+166,Bromazepam,0.85,0.51,2.0,neutral
+167,Bromfenac,0.11,1.3,0.33,anionic
+168,Bromopride,3.1,13.0,0.44,cationic
+170,Brostallicin,0.36,5.15,1.9,neutral
+171,Brotizolam,0.75,2.0,2.7,neutral
+172,Budesonide,3.9,20.0,3.0,neutral
+173,Buflomedil,1.3,5.6,0.52,cationic
+174,Bufuralol,1.7,8.9,1.7,cationic
+175,Bumecaine,1.73,19.19,3.3,cationic
+176,Bumetanide,0.16,2.5,0.56,anionic
+177,Bunazosin,0.72,4.8,2.6,neutral
+178,Bupivacaine,0.84,4.3,3.4,cationic
+179,Buprenorphine,4.9,19.0,3.1,cationic
+180,Busulphan,0.55,2.4,-0.72,neutral
+181,Buthionine sulfoximine,0.26,2.28,-2.5,zwitterionic
+183,Butylbiguanide,1.84,6.58,-4.1,cationic
+185,Caderofloxacin,1.1,2.7,-0.28,zwitterionic
+186,Caffeine,0.63,1.4,0.078,neutral
+187,Carebastine,0.41,0.4,3.0,zwitterionic
+189,Calcitriol,0.25,0.31,6.0,neutral
+190,Canagliflozin,1.19,2.74,3.3,neutral
+191,Candesartan,0.13,0.37,-0.31,anionic
+192,Candoxatrilat,0.25,2.3,-3.6,anionic
+196,Captopril,0.75,12.0,-2.2,anionic
+198,Carbenicillin,0.17,1.9,-5.4,anionic
+202,Carnitine_L,0.4,1.6,-4.0,anionic
+203,Carocainide,0.8,3.2,0.3,cationic
+204,Carprofen,0.22,0.51,0.95,anionic
+207,Carvedilol,1.3,7.8,2.9,cationic
+208,Carzelesin,0.09,2.9,7.7,neutral
+210,Cefetamet,0.28,1.9,-2.6,anionic
+211,Caspofungin,0.13,0.14,-6.3,cationic
+212,CB 10-277,0.25,1.3,-0.32,anionic
+214,Cefadroxil,0.23,2.5,-2.1,zwitterionic
+215,Cefamandole,0.16,3.6,-3.4,anionic
+216,Cefatrizine,0.22,3.3,-4.7,anionic
+217,Cefazedone,0.13,0.95,-2.3,anionic
+218,Cefazolin,0.12,0.89,-4.2,anionic
+219,Cefbuperazone,0.19,1.1,-5.4,anionic
+220,Cefcanel,0.13,2.6,-2.2,anionic
+221,Cefclidin,0.27,1.7,-4.6,anionic
+222,Cefepime,0.28,2.2,-2.7,anionic
+223,Cefmenoxime,0.2,3.65,-3.2,anionic
+224,Cefmetazole,0.13,1.5,-4.3,anionic
+225,Cefodizime,0.054,0.61,-4.9,anionic
+226,Cefonicid,0.14,0.38,-6.7,anionic
+227,Cefoperazone,0.17,1.3,-4.3,anionic
+228,Ceforanide,0.17,0.66,-4.7,anionic
+229,Cefoselis,0.3,1.77,-4.2,anionic
+230,Cefotaxime,0.19,2.7,-3.1,anionic
+231,Cefotetan,0.13,0.42,-7.1,anionic
+232,Cefotiam,0.26,5.8,-4.3,zwitterionic
+233,Cefoxitin,0.17,3.6,-3.8,anionic
+234,Cefozopran,0.24,2.1,-4.8,anionic
+236,Cefpiramide,0.15,0.48,-3.9,anionic
+237,Cefpirome,0.24,1.9,-1.6,anionic
+238,Cefprozil,0.21,2.9,-1.8,zwitterionic
+239,Cefroxadin,0.17,4.78,-3.5,zwitterionic
+240,Cefsulodin,0.29,1.96,-6.1,anionic
+242,Ceftazidime,0.31,2.4,-4.1,anionic
+244,Ceftizoxime,0.2,2.1,-3.2,anionic
+245,Ceftobiprole,0.27,1.5,-4.0,zwitterionic
+248,Cefuroxime,0.15,2.2,-3.2,anionic
+249,Cefuzonam,0.2,4.1,-2.5,anionic
+250,CEP-18770,0.87,0.29,1.9,neutral
+251,Cephacetrile,0.49,3.69,-4.5,anionic
+252,Cephalexin,0.21,3.9,-1.6,zwitterionic
+253,Cephaloridine,0.46,3.3,-0.53,anionic
+254,Cephalothin,0.07,1.8,-2.9,anionic
+255,Cephapirin,0.13,2.7,-3.6,anionic
+256,Cephradine,0.21,3.3,-2.0,zwitterionic
+257,Cerivastatin,0.33,2.9,1.1,anionic
+258,Cetrorelix,0.39,1.2,-2.4,cationic
+259,CG200745,0.45,1.82,0.86,cationic
+260,CGP15720A,0.35,1.67,-0.84,zwitterionic
+261,CGP31608,0.23,7.67,-4.7,zwitterionic
+263,Chenodeoxycholic acid,0.19,5.7,2.0,anionic
+264,Chlorambucil,0.26,2.8,1.2,anionic
+265,Chloramphenicol,0.94,2.4,0.54,neutral
+266,Chlorazepate,0.2,1.1,-0.91,anionic
+267,Chlordiazepoxide,0.25,0.37,1.4,neutral
+269,"Chlorophenylpiperazine, m-",2.5,6.1,0.61,cationic
+271,Chlorpheniramine,3.3,2.5,1.4,cationic
+273,Chlorpropamide,0.19,0.045,-0.29,anionic
+275,Chlortetracycline,0.9,2.0,-3.1,anionic
+276,Chlorthalidone,3.9,1.5,0.84,neutral
+277,Cibenzoline,4.1,8.6,-0.64,cationic
+278,Cicaprost,0.08,3.8,-0.63,anionic
+279,Cinaciguat,0.24,9.0,2.5,anionic
+280,Dexmethylphenidate,2.65,6.67,0.84,cationic
+282,Ciclotropium,1.25,8.41,1.6,neutral
+284,Cilastatin,0.15,2.3,-4.6,anionic
+285,Cilazaprilat,3.7,2.1,-5.4,anionic
+286,Cilengitide,0.26,1.18,-3.7,zwitterionic
+287,Cilomilast,0.23,0.5,0.89,anionic
+288,Cimetidine,1.2,8.1,-0.29,neutral
+291,Ifosfamide,0.62,1.1,0.88,neutral
+292,Ciprofloxacin,2.1,8.3,-0.63,zwitterionic
+294,Cisapride,1.2,1.5,3.0,cationic
+295,Cisatracurium,0.14,5.4,1.7,neutral
+298,Clarithromycin,1.5,7.3,1.0,cationic
+299,Clavulanic Acid,0.22,3.1,-4.6,anionic
+300,Clazosentan,0.23,10.5,-2.3,anionic
+303,Clinafloxacin,1.9,4.7,0.29,zwitterionic
+304,Clindamycin,0.79,4.5,0.96,cationic
+305,Clodronate,0.88,1.6,-7.5,anionic
+306,Clofarabine,1.75,7.7,-0.77,neutral
+308,Clonazepam,2.9,0.88,2.7,neutral
+309,Clonidine,3.3,4.0,0.84,cationic
+310,Clopidogrel,2.01,23.65,3.3,neutral
+311,Clozapine,1.6,2.5,4.1,cationic
+313,Cocaethylene,1.6,13.0,2.4,cationic
+314,Dabigatran,0.85,1.93,-1.1,zwitterionic
+316,Codeine,3.5,15.0,0.29,cationic
+318,Combretastatin A4 Phosphate,0.11,5.86,-0.95,anionic
+319,Conivaptan,0.76,3.0,5.0,cationic
+321,Cositecan,3.26,4.2,4.5,neutral
+322,Cotinine,1.1,0.89,-0.33,neutral
+323,Coumarin,1.1,23.6,1.6,neutral
+324,CP-4055,0.14,4.53,5.0,neutral
+325,Dantrolene,0.37,0.43,1.0,anionic
+326,CP-65207,0.21,5.1,-4.7,anionic
+327,CPW 86-363,0.22,1.83,-7.5,anionic
+329,CUDC-101,0.56,11.99,4.3,neutral
+330,Cyanamide,0.78,17.0,-0.82,cationic
+333,Cyclophosphamide,0.73,1.1,0.55,neutral
+334,Cyclosporine,3.3,7.5,6.6,neutral
+335,CYT997,3.41,22.2,4.3,neutral
+338,Dabrafenib,0.65,2.86,5.2,neutral
+339,Dacarbazine,1.2,2.6,-0.12,neutral
+340,Dacinostat,2.17,7.6,1.5,cationic
+341,Daclatasvir,0.67,1.0,5.2,neutral
+342,Dalbavancin,0.14,0.01,0.73,zwitterionic
+343,Dalfampridine,2.6,9.3,-1.4,cationic
+344,Dalfopristin,0.39,16.0,0.6,neutral
+345,Danazol,5.18,15.71,3.7,neutral
+346,Danoprevir,0.22,11.53,1.4,anionic
+347,Danusertib,2.5,6.1,0.62,cationic
+348,Dapagliflozin,1.7,3.0,2.3,neutral
+349,Dapsone,0.83,0.48,0.97,neutral
+352,Darifenacin,2.6,12.0,2.5,cationic
+356,Deacetyl metipranolol,3.6,16.2,0.77,cationic
+357,Deferasirox,0.2,0.84,1.3,anionic
+358,Deferolimus,3.2,1.1,6.4,neutral
+359,Degarelix,0.74,0.68,0.72,cationic
+360,Dehydroandrographolide succinate,0.13,2.0,-3.7,anionic
+361,Delafloxacin,0.35,2.33,-0.0083,anionic
+362,Delorazepam (Chlordesmethyldiazepam),2.2,0.17,3.6,neutral
+363,Demethylchlortetracycline,1.3,1.1,-2.9,anionic
+365,Deoxycytidine-5F-2',0.91,5.09,-2.0,neutral
+368,Desferrioxamine,1.35,8.33,-5.8,cationic
+370,Desmethyldiazepam,0.45,0.12,3.0,neutral
+372,Desvenlafaxine,3.5,4.9,0.95,cationic
+373,Dexamethasone,0.94,3.3,1.7,neutral
+374,Dexanabinol,5.06,21.38,7.5,neutral
+376,Dexloxiglumide,0.18,3.7,1.0,anionic
+378,Dexrazoxane,0.55,3.1,-0.5,neutral
+379,Dextromoramide,0.47,2.19,3.4,neutral
+382,Diatrizoic Acid (Amidotrizoate),0.26,1.7,-2.3,anionic
+383,Diazepam,1.0,0.38,2.8,neutral
+384,Diazoxide,0.21,0.06,1.2,neutral
+386,Dichloroacetic Acid,0.19,5.3,-2.5,anionic
+387,Diclofenac,0.22,3.5,1.1,anionic
+388,Dicloxacillin,0.11,2.0,0.023,anionic
+389,Didanosine,0.77,11.0,-0.95,neutral
+390,Didemnin B,1.42,12.22,3.5,neutral
+391,Dienogest,0.6,1.29,2.1,neutral
+392,Diflomotecan,1.42,8.42,-0.7,neutral
+393,Diflunisal,0.097,0.1,0.31,anionic
+394,Digitoxin,0.44,0.043,1.2,neutral
+395,Digoxin,4.1,1.7,0.21,neutral
+396,Dihydrocodeine,1.07,4.21,0.29,cationic
+397,Dihydroergosine,4.02,12.85,3.2,cationic
+398,Dihydroergotamine,0.33,15.07,3.3,cationic
+399,Dobesilic acid,0.12,0.87,-4.0,neutral
+400,Dihydroquinidine,2.8,4.2,1.7,cationic
+402,Diltiazem,4.1,13.0,2.7,cationic
+403,Dimetindene,2.16,4.83,2.5,cationic
+404,Dinaciclib,0.32,4.65,0.88,neutral
+406,Diprafenone,1.2,11.0,2.0,cationic
+407,Diprophylline,0.42,4.8,-1.2,neutral
+408,Dipyridamole,0.82,2.0,1.4,cationic
+409,Disopyramide,0.52,0.9,-0.11,cationic
+410,Distigmine,1.0,0.2,-5.7,neutral
+412,Dixyrazine,4.06,16.27,3.0,cationic
+413,Docetaxel,2.1,14.0,3.0,neutral
+414,Dofetilide,3.3,5.2,1.2,cationic
+416,Domperidone,3.4,9.5,3.1,cationic
+418,Doripenem,0.23,3.26,-3.9,zwitterionic
+419,Doxacurium,0.22,2.7,0.57,neutral
+420,Doxapram,1.2,5.3,3.1,neutral
+421,Doxazosin,1.3,1.6,2.6,neutral
+423,Doxifluridine,0.28,11.0,-1.5,neutral
+424,Fenspiride,3.0,2.6,0.16,cationic
+425,Doxofylline,1.03,6.83,-0.36,neutral
+427,Doxycycline,0.69,0.46,-3.3,anionic
+428,DP-b99,1.1,14.0,4.4,anionic
+429,DQ-2556,0.22,1.76,-0.63,anionic
+431,Droperidol,1.41,8.92,0.54,cationic
+432,Drotaverine,1.9,3.5,4.6,neutral
+434,DX-52-1,0.23,3.06,-3.2,anionic
+435,DX9065a,1.55,1.86,-1.3,cationic
+437,E7974,1.26,0.97,1.4,anionic
+439,Edaravone,0.23,1.42,2.2,neutral
+441,Edoxaban,1.53,5.19,1.3,neutral
+442,Edrophonium,1.1,9.6,-3.2,neutral
+443,Eletriptan,1.6,5.3,2.2,cationic
+446,Gemifloxacin ,3.52,7.2,-0.26,zwitterionic
+447,Elisidepsin,5.55,3.85,3.4,cationic
+448,Eltanolone,2.0,22.0,4.0,neutral
+449,Eltoprazine,3.6,8.0,-0.46,cationic
+450,Enalaprilat,0.38,1.6,-3.4,anionic
+451,Enalkiren,0.11,0.45,0.16,cationic
+452,Encainide,2.2,13.0,3.0,cationic
+453,Endralazine,2.2,13.0,1.9,cationic
+455,Eniporide,1.1,8.2,0.24,neutral
+456,Enoxacin,2.0,5.4,-1.1,zwitterionic
+457,Enoximone,1.48,19.1,1.3,neutral
+458,Enprofylline,0.63,4.0,-1.4,anionic
+459,Entacapone,0.27,12.0,-0.08,anionic
+460,Epiroprim,2.5,3.5,2.9,neutral
+463,Epristeride,0.54,0.33,2.2,anionic
+464,Eprosartan,0.17,1.9,-1.1,anionic
+466,Eptifibatide,0.17,1.2,-5.5,zwitterionic
+467,Eravacycline,2.3,3.71,-3.9,cationic
+468,Ergotamine,3.6,15.0,3.5,neutral
+469,Eribulin,1.46,0.75,0.36,cationic
+470,Eritoran,0.048,0.013,1.7,anionic
+471,Erlotinib,0.77,1.69,3.8,neutral
+472,Ertapenem,0.12,0.45,-4.8,anionic
+473,Erythromycin,0.95,5.6,0.47,cationic
+474,Escin Ia,0.28,1.65,-4.5,anionic
+475,Escin Ib,0.23,2.55,-4.5,anionic
+477,Esomeprazole,0.2,3.85,2.2,neutral
+479,Genaconazole,0.62,0.19,-0.18,neutral
+480,Estramustine phosphate,0.12,0.94,1.0,anionic
+481,Ethacrynic Acid,0.26,8.7,-0.46,anionic
+482,Ethambutol,1.7,10.0,-2.5,cationic
+483,Ethimizol,0.73,12.1,-0.55,neutral
+484,Ethinylestradiol,4.3,7.0,3.5,neutral
+485,Ethinylestradiol-17-Sulfate,0.61,1.3,1.8,anionic
+486,Ethinylestradiol-3-Sulfate,2.3,4.7,-1.9,neutral
+487,Etilefrine,2.1,14.0,-0.9,cationic
+488,Etomidate,2.7,13.0,2.8,neutral
+489,Etonogestrel,2.87,2.0,4.0,neutral
+490,Etoposide,0.18,0.5,-0.43,neutral
+491,Etoricoxib,1.5,0.79,3.5,neutral
+492,Evacetrapib,1.82,0.84,5.2,zwitterionic
+493,Exatecan (acid),0.44,0.96,1.7,neutral
+494,Ezogabine,2.5,8.3,3.1,neutral
+495,F992,0.31,0.87,-6.0,cationic
+496,Falipamil,2.4,15.71,2.3,cationic
+497,Famotidine,1.2,6.6,-1.4,neutral
+498,Faropenem,0.18,2.23,-4.4,anionic
+500,Felodipine,4.4,11.0,4.2,neutral
+502,Fenoprofen,0.1,0.6,0.48,anionic
+504,Fentanyl,0.89,4.7,2.8,cationic
+505,Fimasartan,0.6,9.6,0.71,cationic
+506,Finafloxacin,1.42,5.75,-1.9,anionic
+507,Finasteride,1.1,2.4,3.2,neutral
+509,Flavopiridol,1.5,6.1,2.4,zwitterionic
+511,Fleroxacin,1.6,2.4,-0.27,zwitterionic
+512,Flomoxef,0.19,4.1,-4.0,anionic
+513,Flucloxacillin,0.19,2.4,-0.5,anionic
+514,Gludopa,0.21,4.6,-5.9,anionic
+515,Fluconazole,0.75,0.31,0.19,neutral
+516,Flucytosine,0.68,2.0,-2.3,neutral
+517,Fludarabine,2.2,3.2,-1.8,neutral
+518,Flumazenil,0.8,16.0,1.0,neutral
+519,Flunisolide,1.08,9.5,2.5,neutral
+520,Flunitrazepam,1.9,1.4,2.1,neutral
+521,Fluocortolone,0.68,7.0,2.3,neutral
+522,Fluorescein,0.14,1.3,3.9,neutral
+523,"fluorodideoxycytidine, 2- (2FddC)",0.7,6.1,-1.2,neutral
+526,Fluphenazine,2.9,9.7,3.7,cationic
+527,Flupirtine,1.1,1.6,2.7,cationic
+528,Fluticasone furoate,4.95,13.4,3.7,neutral
+529,Fluticasone propionate,3.6,17.0,3.3,neutral
+530,Fluvastatin,0.42,16.0,-0.11,anionic
+533,Folinic acid,0.25,5.8,-7.6,anionic
+534,Fomepizole,0.35,0.73,0.72,neutral
+536,Hypericin,0.25,0.13,1.8,anionic
+538,Fosaprepitant,0.07,18.6,-3.5,anionic
+539,Foscarnet,0.5,2.1,-7.6,anionic
+540,Fosfluconazole,0.15,1.3,-5.1,anionic
+541,Fosfomycin,0.32,2.0,-5.7,anionic
+542,Fosinoprilat,0.13,0.32,-1.0,anionic
+543,Fosphenytoin,0.06,3.5,-3.3,anionic
+544,Fostriecin,0.086,1.2,-4.4,anionic
+545,Fotemustin,0.62,18.5,1.5,neutral
+546,Frovatriptan,3.6,2.5,-0.86,cationic
+548,Furosemide,0.12,1.6,-1.4,anionic
+549,Fusidate sodium,0.23,0.35,3.3,anionic
+550,Fuzlocillin,0.2,3.61,-2.0,anionic
+551,Gabapentin,0.71,1.7,-1.7,zwitterionic
+560,GAL-021,2.17,11.9,2.3,neutral
+561,Galanthamine,2.3,5.6,1.1,cationic
+562,Gallamine triethiodide,0.27,1.51,-7.7,neutral
+563,Gallopamil,1.75,14.3,2.8,cationic
+564,Gambogic acid,0.99,1.24,4.9,anionic
+565,Ganciclovir,1.0,4.6,-2.6,neutral
+566,Ganglioside GM1,0.07,0.02,-4.0,anionic
+567,Ganirelix,0.21,0.63,3.4,cationic
+568,Garenoxacin,1.0,1.23,1.1,zwitterionic
+569,Gatifloxacin,1.7,2.8,-0.65,zwitterionic
+570,Gavestinel,0.12,0.089,1.8,anionic
+573,Gentamicin,0.33,1.0,-7.1,cationic
+574,Gestodene,0.46,0.8,4.1,neutral
+575,GHRP-6,0.42,3.1,-2.4,cationic
+576,Ginkgolide A,0.62,2.3,-3.4,neutral
+577,Ginkgolide B,0.91,2.3,-4.5,neutral
+578,Ginsenoside RD,0.11,0.09,-0.39,neutral
+579,Gisadenafil,2.4,14.3,0.26,cationic
+580,Glibornuride,0.27,0.34,0.62,anionic
+581,Gliclazide,0.43,0.41,0.2,anionic
+582,Glimepiride,0.19,0.5,2.1,anionic
+583,Glipizide,0.16,0.56,0.0081,anionic
+584,Glufosfamide,0.24,1.6,-2.3,neutral
+585,Glyburide,0.08,0.82,2.0,anionic
+586,Glyceryl 1-nitrate,0.76,3.63,-0.51,neutral
+587,Glycopyrrolate bromide,0.37,16.8,-0.23,neutral
+588,Glycyrrhizin,0.06,0.13,-7.5,anionic
+590,Granisetron,3.7,9.1,1.2,cationic
+592,GSK1322322,0.75,5.6,-1.2,cationic
+593,GSK2140944,2.7,9.23,-2.5,cationic
+595,GSK2239633,1.65,5.1,1.2,anionic
+596,GSK2251052,2.37,4.1,-3.7,cationic
+597,GSK269984A,0.77,2.0,3.2,anionic
+600,Guanylcisteine,0.25,2.88,-3.4,zwitterionic
+602,Heptaminol,2.14,10.72,-1.6,cationic
+604,Hexobarbital,1.1,3.4,1.8,neutral
+605,Homoharringtonine,1.8,2.96,0.17,cationic
+606,Hydroxyurea,0.52,1.5,-1.5,neutral
+607,Hydrocortisone,0.38,5.7,1.5,neutral
+608,Hydroflumethiazide,2.2,9.7,0.032,neutral
+610,"Hydroxycamptothecin, 10-",0.22,2.23,1.4,neutral
+612,"Hydroxycotinine, 3'-",0.85,1.8,-2.0,anionic
+615,Hydroxymidazolam,0.77,9.71,1.9,neutral
+617,Hydroxysafflor yellow A,0.2,1.0,-0.51,neutral
+618,"Hydroxystaurosporine, 7-",0.15,0.0037,-0.29,cationic
+619,Ibandronic Acid (Ibandronate),0.55,1.8,-5.9,anionic
+621,Ibuprofen,0.15,0.82,0.34,anionic
+624,Idazoxan,3.3,10.0,-2.5,cationic
+625,Idrapril,1.0,6.3,-3.5,anionic
+626,Idrocilamide,0.11,0.99,0.86,neutral
+627,IDX899,0.56,1.71,2.9,neutral
+628,IDX989,0.97,1.83,2.9,neutral
+630,Ifetroban,4.4,6.4,1.2,anionic
+631,Ilaprazole,0.19,0.73,1.9,anionic
+632,Iloprost,0.37,16.0,0.96,anionic
+633,Imatinib,3.9,3.3,3.3,cationic
+634,Imidafenacin,1.51,6.1,1.7,neutral
+635,Imipenem,0.24,3.0,-3.1,zwitterionic
+637,Imipramine N-oxide,1.9,12.0,0.84,neutral
+638,Incadronate (acid),0.24,2.16,-5.8,anionic
+640,Indinavir,0.82,18.0,2.9,neutral
+641,Indisulam,0.68,0.72,1.0,neutral
+642,Indocyanine Green,0.035,6.8,3.1,anionic
+643,Indomethacin,0.096,1.3,0.59,anionic
+644,Indoprofen,0.12,0.65,-0.59,anionic
+645,Indoramin,4.9,20.0,3.3,cationic
+646,INO-1001,1.9,7.9,-0.11,neutral
+647,Inogatran,0.26,6.1,-3.4,cationic
+649,Iodixanol,0.2,1.44,-3.9,neutral
+651,Iohexol,0.16,2.0,-2.8,neutral
+652,Iomeprol,0.23,1.4,-2.1,neutral
+653,Iopamidol,0.28,1.9,-2.3,neutral
+654,Levocabastine,1.17,0.43,2.0,zwitterionic
+655,Iopentol,0.2,1.27,-2.2,neutral
+656,Iopromide,0.22,1.4,-2.2,neutral
+657,Iothalamic acid (Iothalamate),0.17,2.4,-2.0,anionic
+658,Iotrolan,0.23,1.49,-5.8,neutral
+660,Irbesartan,0.94,2.3,1.1,anionic
+661,Irinotecan,3.5,7.0,2.4,cationic
+663,Isavuconazole,5.37,0.85,4.0,neutral
+665,Levodopa,1.7,23.0,-1.9,zwitterionic
+666,Isoglycirrhizinate (acid),0.09,0.05,-7.5,anionic
+667,Isomazole,1.67,20.7,1.0,neutral
+668,Isoniazide,0.82,7.4,-1.0,neutral
+671,Isosorbide-2-Mononitrate,0.86,6.2,-0.38,neutral
+672,Isosorbide-5-Mononitrate,0.7,2.0,-0.38,neutral
+673,Isoxicam,0.19,0.07,-0.77,anionic
+676,Ivabradine,1.66,10.27,1.8,cationic
+677,IVL745,0.25,11.0,-0.014,anionic
+679,Ixazomib,3.61,0.5,2.2,neutral
+680,Kahalide F,0.11,3.9,3.4,cationic
+682,Ketamine,2.9,19.0,2.2,cationic
+683,Ketanserin,3.9,6.7,2.8,cationic
+684,Ketobemidone,0.48,9.2,0.0027,cationic
+685,Ketoprofen,0.13,1.6,-0.072,anionic
+686,Ketorolac,0.11,0.35,-0.76,anionic
+687,KNI-272,0.11,10.5,1.9,neutral
+688,KRN-5500,0.17,2.7,1.2,neutral
+691,KW-2478,1.32,6.87,1.6,neutral
+692,L-5-hydroxytryptophan,0.8,1.72,-1.6,zwitterionic
+694,L-692429,0.2,3.05,1.8,zwitterionic
+695,"L-778,123",0.8,3.2,2.6,neutral
+696,Labetalol,4.8,23.0,0.97,cationic
+697,Levofloxacin,1.2,1.9,-0.4,zwitterionic
+698,Lacosamide,0.58,0.57,-0.2,neutral
+699,Ladirubicin,2.95,23.54,1.4,neutral
+700,Lamifiban,0.29,1.9,-0.3,zwitterionic
+701,Lamivudine,1.3,4.8,-1.0,neutral
+702,Lanicemine,1.62,1.8,0.31,cationic
+704,Lanreotide,0.2,5.7,-2.3,cationic
+705,Lansoprazole,0.28,4.4,2.4,neutral
+706,Laromustine,0.88,23.1,-1.4,neutral
+707,Laropiprant,1.0,1.21,1.2,anionic
+708,Levoleucovorin,0.27,4.1,-7.7,anionic
+711,Lefamulin,1.32,3.96,0.75,cationic
+712,Lenapenem,0.22,2.02,-3.6,zwitterionic
+713,Lesinurad,0.29,1.43,-0.86,anionic
+714,Letrozole,1.9,0.57,2.1,neutral
+715,Leuprolide,0.38,2.0,-4.1,cationic
+716,Levetiracetam,0.6,0.9,-0.48,neutral
+717,Levobupivacaine,0.49,8.7,3.4,cationic
+719,Levonorgestrel,1.5,1.8,3.5,neutral
+722,Levosimendan,0.24,3.8,0.87,anionic
+723,Libenzapril,1.98,1.23,-2.4,anionic
+724,Licarbazepine,0.72,0.88,1.9,neutral
+725,Lidocaine,1.8,16.0,2.0,cationic
+727,Lincomycin,1.0,2.1,-0.75,cationic
+728,Linezolid,0.58,1.8,1.1,neutral
+729,"Lipoic acid, R(+)-?",0.1,11.5,0.038,anionic
+730,"Lipoic acid, S(-)-?",0.11,13.4,0.038,anionic
+732,Lisdexamfetamine,0.6,17.0,-2.1,cationic
+733,Lisinopril,0.89,1.2,-3.0,anionic
+734,Lisuride,1.73,13.3,2.8,neutral
+735,Lomefloxacin,2.04,3.98,-0.34,zwitterionic
+738,Lorazepam,1.3,1.0,2.9,neutral
+740,Lormetazepam,1.6,4.0,2.8,neutral
+741,Losartan,0.37,8.2,0.7,anionic
+742,Losmapimod,1.67,3.77,4.2,neutral
+743,Lovastatin (acid),0.87,7.2,1.4,anionic
+744,Loxiglumide,0.24,1.0,1.0,anionic
+745,Lubeluzole,2.6,1.7,4.4,cationic
+748,LY2090314,1.2,10.3,3.5,neutral
+749,Melagatran,0.23,1.9,-2.6,cationic
+750,LY2140023,0.44,9.73,-7.6,anionic
+752,Mannitol,0.24,1.2,-3.6,neutral
+754,Maraviroc,2.3,9.4,3.1,cationic
+756,Mazapertine,1.54,6.17,4.0,neutral
+757,MDAM,0.7,3.08,-6.0,anionic
+758,ME-344,1.2,8.42,4.2,neutral
+759,Mebendazole,1.2,15.0,-0.42,neutral
+760,Medifoxamine,2.8,13.7,2.8,neutral
+762,Melatonin,1.1,16.5,1.4,neutral
+763,Meloxicam,0.15,0.12,-0.7,anionic
+765,Melphalan,0.48,7.0,0.36,zwitterionic
+766,MEN-10755 ,2.4,2.5,-2.2,cationic
+768,Meperidine,2.3,4.9,1.8,cationic
+769,Mepindolol,2.17,5.83,0.37,cationic
+770,Mepivacaine,0.95,6.8,2.0,cationic
+771,Meprobamate,0.7,0.6,0.91,neutral
+773,"Mercaptopurine, 6-",1.0,15.0,-2.0,neutral
+774,Meropenem,0.3,3.9,-3.5,zwitterionic
+775,Mesna,0.65,20.5,-4.2,anionic
+776,Metadoxine,0.66,7.9,-0.57,neutral
+778,Metazosin,0.44,0.53,0.99,neutral
+779,Metergoline,0.57,9.6,3.4,cationic
+780,Metformin,0.64,7.4,-5.5,cationic
+781,Methadone,4.4,1.7,2.5,cationic
+782,Methamphetamine,4.3,4.4,-0.2,cationic
+783,Methicillin,0.32,6.6,-1.6,anionic
+784,Methimazole,0.86,3.7,-0.12,neutral
+785,Methohexital,1.1,12.0,1.7,neutral
+786,Methotrexate,0.43,2.1,-6.4,anionic
+787,"Methoxypsoralen,8-",0.61,12.0,2.1,neutral
+788,Methyldopa,0.69,3.5,-2.1,zwitterionic
+789,Methylergometrine,0.96,7.18,1.6,neutral
+790,Methylnaltrexone,2.6,22.0,-1.4,neutral
+791,"Methylnortestosterone, 7?-, 19-",0.8,20.0,3.5,neutral
+792,Methylphenidate,2.2,9.42,0.84,cationic
+793,Methylprednisolone,1.2,6.1,2.0,neutral
+795,Metoclopramide,3.2,5.7,0.37,cationic
+796,Metocurine,0.4,1.2,2.3,neutral
+797,Metolazone,1.6,1.4,3.5,neutral
+799,Metoprolol,3.1,13.0,0.064,cationic
+800,Metrizoate,0.17,2.7,-1.9,anionic
+801,Metronidazole,0.4,0.85,-0.44,neutral
+803,Mezlocillin,0.09,2.1,-2.3,anionic
+805,Mibefradil,3.1,4.0,3.8,cationic
+806,Mizolastine,0.38,1.03,3.5,neutral
+808,Micafungin,0.21,0.17,-7.4,neutral
+810,Micronomicin,0.15,1.1,-6.9,cationic
+811,Midazolam,1.1,5.3,3.1,neutral
+814,Mifepristone,0.45,0.5,4.8,neutral
+815,Miglitol,0.28,1.7,-3.3,neutral
+817,Mycophenolic acid,0.77,2.33,0.58,anionic
+818,Milnacipran,4.51,8.17,-1.8,cationic
+819,Milrinone,0.25,6.2,-0.57,anionic
+820,Minocycline,1.6,1.2,-1.9,zwitterionic
+821,Minoxidil,0.9,11.5,0.9,neutral
+824,Mirtazapine,4.2,8.0,1.1,cationic
+827,Mivacurium (cis/cis),0.27,5.2,2.3,neutral
+828,Nadolol,1.9,2.9,-0.79,cationic
+829,Moclobemide,1.1,10.0,1.3,neutral
+831,Molsidomine,1.4,11.0,-2.3,neutral
+832,Mometasone Furoate,2.2,12.7,4.5,neutral
+833,Montelukast,0.15,0.68,4.8,anionic
+834,Morinidazole,0.75,1.6,-0.88,neutral
+836,Morphine-6-Glucuronide,0.12,2.2,-2.4,zwitterionic
+837,Moxalactam,0.17,0.72,-4.2,anionic
+838,Moxifloxacin,1.4,2.4,-0.36,zwitterionic
+839,Moxonidine,1.8,11.0,0.13,cationic
+841,Nafarelin,0.14,0.72,-4.4,cationic
+842,Nafcillin,0.22,3.3,0.18,anionic
+844,Nalbuphine,4.6,22.0,1.2,cationic
+846,Naloxone,1.7,23.0,0.89,neutral
+848,Naphtidrofuryl oxalate,0.98,10.8,3.6,cationic
+849,Nicainoprol,0.67,3.6,-0.35,cationic
+850,Naproxen,0.09,0.07,0.023,anionic
+851,Napsagatran,0.36,6.4,-1.6,zwitterionic
+852,Naratriptan,2.4,6.6,0.43,cationic
+853,Nateglinide,0.15,1.8,0.67,anionic
+854,NBI-1,1.83,5.31,1.9,cationic
+855,NBI-2,1.11,2.33,1.3,cationic
+856,NBI-3,1.86,3.4,1.4,cationic
+860,Nicardipine,1.0,11.0,3.7,neutral
+861,Nedocromil,0.43,10.2,-3.1,anionic
+862,Nefazodone,0.51,7.5,4.3,neutral
+865,Nemonoxacin,1.9,3.8,0.077,zwitterionic
+867,Neostigmine,0.74,9.2,-3.1,neutral
+869,Netilmicin,0.073,0.55,-7.5,cationic
+870,Netupitant,5.54,2.83,5.3,cationic
+871,Nevirapine,1.3,0.3,1.1,neutral
+872,Nicorandil,1.4,8.9,0.53,neutral
+873,Nicotine,2.6,18.0,-0.46,cationic
+874,Nifedipine,0.79,7.3,2.4,neutral
+875,Nifekalant,1.96,20.89,0.5,cationic
+876,Nimodipine,1.1,15.0,3.2,neutral
+878,Nisoldipine,5.5,15.0,3.7,neutral
+879,Nitrazepam,1.7,0.86,2.1,neutral
+881,Nitrofurantoin,0.57,9.7,-0.98,anionic
+883,Nizatidine,1.0,9.8,-0.24,neutral
+884,NK 611,0.3,0.4,0.21,neutral
+885,Nocloprost,0.16,13.2,2.6,anionic
+887,Norfloxacine,1.88,6.96,-0.72,zwitterionic
+888,Nortilidine,2.5,9.9,1.9,cationic
+890,Noscapine,2.3,16.88,2.4,neutral
+891,Octreotide,0.19,2.38,-3.4,cationic
+892,Odanacatib,1.63,0.19,3.7,neutral
+893,Ofloxacin,1.6,2.5,-0.4,zwitterionic
+894,OGT719,0.33,1.38,-6.6,neutral
+895,Olcegepant,0.31,2.6,2.2,cationic
+896,Oleandomycin,0.77,9.1,0.7,cationic
+897,Oliceridine,0.78,6.89,2.5,cationic
+900,Olprinone,0.64,11.0,-2.9,neutral
+901,Olsalazine,0.07,1.2,-3.6,anionic
+902,Omadacycline,2.7,2.34,-2.1,zwitterionic
+904,Ombitasvir,2.32,1.68,7.8,neutral
+905,Ombrabulin,0.44,22.6,0.91,neutral
+906,Omeprazole,0.24,8.4,2.2,neutral
+907,Ondansetron,1.8,5.8,1.0,cationic
+908,ONO-4232,0.48,15.79,-0.44,anionic
+909,OR-1896,2.38,0.45,0.71,neutral
+910,Org 28611,1.0,3.0,2.3,cationic
+911,Oritavancin,0.3,0.07,-0.82,cationic
+912,Ornidazole,1.16,1.08,0.22,neutral
+914,Oseltamivir acid,0.37,4.8,-1.7,zwitterionic
+915,Paritaprevir,1.37,5.74,2.3,anionic
+916,Otamixaban,0.89,7.38,-0.91,cationic
+917,Oxacillin,0.19,6.3,-1.2,anionic
+919,Oxazepam,0.59,1.1,2.3,neutral
+920,Oxiracetam,0.55,1.8,-2.5,neutral
+921,Oxprenolol,0.72,7.7,0.24,cationic
+922,Oxybutynin,0.85,5.1,3.9,cationic
+923,Oxycodone,2.5,6.1,0.17,cationic
+924,Oxymatrine,0.61,7.66,0.87,neutral
+925,Oxytetracycline,1.7,2.0,-4.3,zwitterionic
+926,Paclitaxel,3.0,6.4,2.9,neutral
+927,Paeoniflorin,0.22,2.05,-1.2,neutral
+931,Pancopride,3.9,5.2,0.83,cationic
+932,Pancuronium,0.2,1.5,-0.36,neutral
+933,Panipenem,0.19,2.6,-2.1,zwitterionic
+935,Pantoprazole,0.17,2.2,1.6,neutral
+936,Papaverine,1.0,11.0,3.5,neutral
+937,Paricalcitol,0.41,0.89,6.4,neutral
+939,Pazopanib,0.16,0.06,4.0,neutral
+940,Pazufloxacin,0.68,4.87,-0.87,zwitterionic
+941,Pefloxacin,1.5,2.0,0.041,zwitterionic
+942,Peldesine,1.2,6.2,-0.38,neutral
+943,Pelrinone,0.39,5.8,-0.8,neutral
+944,Pemetrexed,0.15,1.3,-5.6,anionic
+945,Penciclovir,1.1,8.4,-1.6,neutral
+947,Penehyclidine,2.12,1.99,1.4,cationic
+949,"Penicillamine, D-",1.26,10.65,-1.8,zwitterionic
+950,Penicillin G,0.24,6.9,-1.3,anionic
+952,Pentazocine,3.4,23.0,2.8,cationic
+953,Pentobarbital,0.91,0.47,1.9,neutral
+954,Pentostatin,0.59,1.63,-2.7,neutral
+956,Perampanel,1.36,0.1,3.1,neutral
+958,Perindoprilat,0.76,1.7,-3.2,anionic
+960,Pevonedistat,3.02,8.1,2.5,neutral
+961,PF-05212384 ,2.39,2.25,2.3,cationic
+963,Phenacetin,1.4,21.0,1.7,neutral
+964,Phenazepam,0.089,0.05,3.8,neutral
+966,Phenethicillin,0.3,4.2,-1.1,anionic
+967,Phenobarbital,0.54,0.063,1.1,neutral
+970,Phenoxymethylpenicillin,0.41,6.8,-1.4,anionic
+971,Phenprocoumon,0.2,0.02,1.2,anionic
+972,Phenytoin,0.43,0.37,1.6,neutral
+975,Picumast,1.3,1.3,3.9,cationic
+976,Pidotimod,0.31,1.16,-4.6,anionic
+977,Pimasertib,1.8,8.71,2.0,neutral
+978,Pimobendan,2.0,14.0,3.1,neutral
+979,Pinacidil,1.1,5.68,1.4,neutral
+980,Pindolol,1.2,7.7,0.05,cationic
+982,Repinotan,0.21,2.2,3.5,cationic
+983,Pipecuronium,0.35,3.0,-2.1,neutral
+984,Pipemidic acid,0.88,2.84,-1.9,zwitterionic
+985,Piperacillin,0.27,4.0,-2.5,anionic
+988,Pirenzepine,1.71,2.77,0.93,cationic
+989,Piretanide,0.17,3.1,0.078,anionic
+990,Piritramide,4.7,7.8,3.2,cationic
+991,Pirmenol,1.4,1.8,2.1,cationic
+992,Piroximone,0.65,9.03,0.041,neutral
+993,Pitavastatin,0.9,5.85,0.54,anionic
+995,PK11195,1.7,5.9,5.4,neutral
+997,Plinabulin,3.0,7.4,-2.8,anionic
+1000,Ponesimod,2.28,0.9,4.0,cationic
+1001,Posaconazole,3.8,4.3,4.6,neutral
+1004,Pralatrexate (R),0.53,2.7,-6.0,anionic
+1005,Pralatrexate (S),1.5,6.0,-6.0,anionic
+1006,Pralidoxime,0.8,9.0,-3.4,neutral
+1009,Pravastatin ,0.46,14.0,-0.54,anionic
+1010,Prazosin,0.73,4.7,1.5,neutral
+1011,Prednisolone,0.86,2.9,1.6,neutral
+1012,Prednisone,0.57,2.5,1.4,neutral
+1013,Prenalterol,4.28,22.1,-0.55,cationic
+1015,Prifinium bromide,1.87,12.5,2.3,neutral
+1017,Primaquine,4.0,5.8,-0.07,cationic
+1018,Probenecid,0.13,0.25,-0.017,anionic
+1019,Procainamide,2.2,10.0,-0.39,cationic
+1021,Procyclidine,0.74,0.86,2.2,cationic
+1024,Propafenone,2.2,16.0,1.5,cationic
+1025,Propionyl-L-carnitine,0.3,2.33,-3.1,anionic
+1026,Propiverine,2.73,2.94,3.1,cationic
+1030,Propranolol,3.1,12.0,0.93,cationic
+1031,Propylthiouracil,0.34,3.1,1.2,neutral
+1032,Proquazone,0.52,9.45,3.8,neutral
+1033,Proxyphyllin,0.59,1.17,-0.044,neutral
+1035,Pseudohypericin,0.56,0.62,0.59,anionic
+1036,"Pyrazine, 2-diazohydroxide",0.31,15.13,0.22,neutral
+1037,Pyridostigmine,1.1,9.6,-3.7,neutral
+1038,Pyrimethamine,0.43,0.052,2.7,neutral
+1039,Quercetin,0.12,11.0,-0.38,anionic
+1041,Quinaprilat,0.13,0.93,-2.4,anionic
+1042,Quinidine,2.9,4.0,2.1,cationic
+1043,Quinine,1.8,1.9,2.1,cationic
+1044,Quinupristin,0.67,16.0,0.59,zwitterionic
+1046,Rabeprazole,0.22,4.0,2.1,neutral
+1047,Raclopride,1.1,1.2,2.1,zwitterionic
+1050,Ramelteon,1.05,13.1,2.7,neutral
+1051,Ranitidine,1.2,9.6,-0.71,cationic
+1052,Ranolazine,1.2,9.5,2.2,neutral
+1053,Reboxetine,0.65,0.82,1.5,cationic
+1054,Recainam,1.4,4.5,0.31,cationic
+1055,Regadenoson,0.94,7.3,-2.5,neutral
+1057,Remikiren,0.77,11.6,2.0,neutral
+1058,Remimazolam,0.44,15.02,2.0,cationic
+1059,Remoxipride,0.65,1.7,0.86,cationic
+1060,Repaglinide,0.35,7.8,2.4,anionic
+1064,Ridogrel,0.43,1.05,0.95,anionic
+1066,Rifampin,0.97,3.5,1.7,anionic
+1067,Rigosertib,0.11,1.51,0.36,anionic
+1068,Rilmenidine,4.5,7.1,-2.2,cationic
+1069,Riluzole,3.5,11.3,3.1,neutral
+1071,Riociguat,0.44,0.74,2.3,neutral
+1073,Risperidone,1.1,5.4,2.6,cationic
+1074,Ritanserin,1.41,0.51,4.9,cationic
+1075,Ritipenem ,0.24,7.55,-5.6,anionic
+1077,Rivaroxaban,0.7,2.4,2.6,neutral
+1078,Rivastigmine,1.3,12.0,1.9,cationic
+1079,Rizatriptan,1.9,16.0,0.41,cationic
+1080,Ro 02-70608,0.3,3.7,1.5,anionic
+1081,Ro25-6833,0.11,0.38,-2.6,anionic
+1082,Rocuronium,0.21,3.7,-0.28,cationic
+1083,Rofecoxib,1.3,2.0,-0.29,neutral
+1084,Roflumilast,1.92,2.2,3.5,neutral
+1086,Rolipram,0.67,6.3,2.1,neutral
+1087,Rolitetracycline,0.54,0.97,-4.1,cationic
+1088,Rolofylline,4.3,5.0,3.2,neutral
+1089,Romidepsin,1.2,7.4,-0.14,neutral
+1091,Ropivacaine,0.75,5.5,2.9,cationic
+1092,Roquinimex,0.21,0.082,-0.95,anionic
+1093,Rosaramicin,2.83,13.3,1.2,cationic
+1094,Rosiglitazone,0.2,0.65,0.25,anionic
+1095,Rosuvastatin,1.7,11.0,-1.3,anionic
+1097,RSD921,1.1,3.0,3.2,cationic
+1098,Rucaparib,3.28,4.31,0.21,cationic
+1099,S 12363,4.67,3.5,3.9,cationic
+1100,S-0139,1.45,7.6,1.7,anionic
+1101,Sabeluzole,5.5,4.05,4.2,cationic
+1102,Urapidil,0.75,3.1,1.1,cationic
+1103,Safinamide,2.19,1.17,1.1,cationic
+1104,Salvianolic acid B,0.14,7.17,-3.1,anionic
+1106,Saquinavir,3.6,13.0,3.3,neutral
+1107,SAR 125844,4.1,8.34,3.4,neutral
+1108,SarCNU,0.76,9.0,-0.4,neutral
+1111,Saxagliptin,1.8,7.1,0.077,neutral
+1112,Sch34343,0.3,7.5,-4.6,anionic
+1113,Scopolamine,3.1,16.0,0.66,cationic
+1117,Selegiline,1.9,20.0,2.3,cationic
+1118,Sematilide,0.82,3.7,-1.6,zwitterionic
+1119,Semaxanib,0.98,14.0,2.2,neutral
+1122,Silatecan,0.47,6.0,4.8,neutral
+1123,Sildenafil,1.36,9.0,1.1,cationic
+1128,Sitafloxacin,1.5,3.7,0.26,zwitterionic
+1129,Sitagliptin,2.8,6.0,-0.4,cationic
+1132,SNS-032,5.14,13.0,0.64,cationic
+1133,Soblidotin,0.42,1.6,3.8,neutral
+1134,Sobrerol,0.43,2.7,1.3,neutral
+1136,Sotalol,1.3,2.0,-1.4,cationic
+1137,Sparfloxacin,3.9,2.7,-0.36,zwitterionic
+1139,Spectinomycin,0.13,0.99,-5.3,cationic
+1140,Spiramycin,5.4,12.8,0.92,cationic
+1141,Spirapril,0.43,11.9,-0.81,anionic
+1143,Squalamine,0.23,1.2,0.76,cationic
+1144,SR 271425,1.01,3.1,2.4,cationic
+1145,SR 4554,0.69,3.0,-0.68,neutral
+1146,Stavudine,0.67,8.2,-0.71,neutral
+1151,Sulbactam,0.32,5.1,-3.7,anionic
+1152,Sulbenicillin,0.15,1.6,-4.7,anionic
+1153,Sulfadiazine,0.29,0.55,-0.75,anionic
+1154,Sulfamethoxazole,0.3,0.36,-0.56,anionic
+1155,Sulfasalazine,0.11,0.26,0.17,anionic
+1156,Sulfinpyrazone,0.12,0.34,-1.2,anionic
+1157,Sulfisoxazole,0.17,0.3,-1.6,anionic
+1158,Sulmazole,0.62,10.0,1.3,neutral
+1159,Sulpiride,0.94,1.9,-0.75,cationic
+1160,Sumatriptan,1.7,19.0,0.3,cationic
+1161,Suprofen,0.04,0.76,-0.31,anionic
+1163,Susalimod,0.1,0.07,0.52,anionic
+1164,Suvorexant,0.69,0.84,5.9,neutral
+1166,Tacrolimus,1.2,0.7,4.0,neutral
+1167,Talinolol,3.3,4.9,1.4,cationic
+1168,Tamsulosin,0.21,0.62,1.6,cationic
+1169,Tanespimycin,2.0,10.18,2.9,neutral
+1170,Tanshinol,0.38,17.75,-3.0,anionic
+1171,Tapentadol,4.64,21.33,1.8,cationic
+1173,TAS-106,1.1,1.6,-3.2,neutral
+1174,Terodiline,5.1,1.1,2.1,cationic
+1175,Tasidotin,0.33,9.6,3.4,neutral
+1176,Tasimelteon,0.33,9.04,2.1,neutral
+1178,Tazobactam,0.26,4.81,-5.2,anionic
+1180,Tedizolid,0.91,1.19,2.0,neutral
+1181,Tegafur,0.62,0.95,-3.4,neutral
+1182,Tegaserod,5.3,18.0,0.86,cationic
+1183,Teicoplanin A2-1,0.92,0.32,-2.2,anionic
+1184,Teicoplanin A2-2,0.83,0.25,-1.8,anionic
+1186,Teicoplanin A2-3,0.57,0.18,-1.7,anionic
+1187,Teicoplanin A2-4,0.57,0.15,-1.3,anionic
+1188,Teicoplanin A2-5,0.42,0.09,-1.3,anionic
+1189,Telavancin,0.11,0.2,0.08,anionic
+1190,Telcagepant,0.86,5.8,-0.022,neutral
+1191,Telithromycin,3.0,14.0,2.4,cationic
+1192,Telmisartan,5.3,8.4,4.7,anionic
+1193,Temocillin,0.11,0.34,-5.7,anionic
+1195,Temozolomide,0.5,3.6,-1.1,neutral
+1196,Tesaglitazar,0.13,0.039,-0.53,anionic
+1197,Temsirolimus,3.0,7.7,5.6,neutral
+1198,Tenidap,0.11,0.058,0.95,anionic
+1200,Teniposide,0.41,0.19,0.15,neutral
+1201,Tenofovir,0.83,3.1,-6.4,anionic
+1202,Tenoxicam,0.19,0.03,-0.92,anionic
+1203,Terazosin,0.98,1.1,1.9,neutral
+1204,Terbutaline,1.5,3.4,-0.41,cationic
+1205,Teriflunomide,0.16,0.007,2.4,anionic
+1207,Testosterone,0.35,24.5,3.3,neutral
+1208,Tetracycline,1.2,1.5,-3.4,anionic
+1210,"Tetrahydrocannabinol,11-Nor-9-carboxy-D9-",1.28,1.2,3.5,anionic
+1211,Tezosentan,0.28,8.1,-1.6,anionic
+1212,TH-302,0.64,14.8,0.35,neutral
+1213,Thalidomide,0.95,3.4,0.58,neutral
+1214,Theophylline,0.51,0.86,-0.22,neutral
+1215,Thiamphenicol glycinate,0.13,9.6,-1.8,cationic
+1216,Thioguanine,2.89,15.4,-4.7,anionic
+1218,Timolol,1.5,8.5,-0.34,cationic
+1219,Thiopental,1.2,8.2,2.5,anionic
+1220,Thiotepa,1.6,6.7,0.53,neutral
+1221,Tiagabine,1.1,1.6,2.4,zwitterionic
+1222,Tianeptine,0.3,2.8,1.6,anionic
+1223,Tiapride,1.1,4.7,-0.86,cationic
+1224,Tiaprofenic acid,0.08,0.62,-0.53,anionic
+1225,Tiazofurin,1.1,2.4,-1.8,neutral
+1226,Ticagrelor,1.25,3.38,-1.2,anionic
+1227,Ticarcillin,0.16,1.8,-5.7,anionic
+1229,Tilidine,4.0,16.0,3.4,cationic
+1230,Tiludronate,0.23,0.4,-4.4,anionic
+1231,Tinidazole,0.59,0.6,-0.48,neutral
+1232,Tiopronin,1.39,1.48,-3.6,anionic
+1234,Tipifarnib,0.93,5.03,4.1,neutral
+1235,Tirapazamine,0.56,8.9,-1.7,neutral
+1237,Tirofiban,0.34,3.0,1.6,zwitterionic
+1238,Tizanidine,2.4,11.0,-0.26,cationic
+1240,Toborinone,1.6,8.9,-0.85,cationic
+1242,Tocainide,1.8,2.2,0.27,cationic
+1243,Tofacitinib,1.24,5.88,1.5,neutral
+1244,Tofogliflozin,0.63,2.07,1.6,neutral
+1245,Tolamolol,4.0,14.0,0.63,cationic
+1246,Tolbutamide,0.12,0.21,0.17,anionic
+1247,Tolcapone,0.12,1.9,0.84,anionic
+1248,Tolfenamic acid,0.16,2.37,2.0,anionic
+1249,Toloxatone,1.5,11.0,1.9,neutral
+1250,Tolterodine,1.5,8.4,3.6,cationic
+1251,Tolvaptan,0.5,2.4,5.2,neutral
+1252,Tomopenem,0.23,1.9,-4.7,zwitterionic
+1253,Tonapofylline,0.76,1.08,0.73,anionic
+1254,Topiramate,0.8,0.27,0.44,neutral
+1256,Topotecan,1.8,13.0,-1.5,cationic
+1257,Torsemide,0.21,0.53,0.095,anionic
+1259,Tozasertib,5.1,18.4,3.5,cationic
+1261,Tramadol,2.8,6.5,0.99,cationic
+1263,Trandolapril,0.25,12.5,-0.16,anionic
+1264,Tranexamic acid,0.38,2.4,-1.9,zwitterionic
+1266,Trazodone,0.52,1.4,4.3,neutral
+1267,Treosulfan,0.59,4.9,-3.0,neutral
+1268,Treprostinil,0.23,10.7,1.4,anionic
+1269,Triamcinolone Acetonide,1.4,9.4,2.3,neutral
+1271,Triapine,0.41,2.65,0.041,neutral
+1272,Triazolam,0.58,3.0,2.6,neutral
+1273,Trimazosin,0.18,0.96,1.6,neutral
+1274,Trimethoprim,1.5,2.1,0.94,neutral
+1275,Trimetrexate,0.77,0.77,2.3,neutral
+1276,Triptorelin,0.4,2.67,-5.5,cationic
+1279,Trospectomycin,0.7,1.7,-3.8,cationic
+1280,Trospium,5.1,13.9,0.83,neutral
+1281,Trovafloxacin,1.3,1.4,0.28,zwitterionic
+1282,Troxacitabine,1.0,2.4,-1.9,neutral
+1283,Tubocurarine,0.45,3.4,3.9,cationic
+1284,TZP 101,0.1,0.1,3.7,cationic
+1285,"UK-240,455",0.8,6.0,-0.43,neutral
+1287,Ursolic acid,0.54,3.87,4.8,anionic
+1288,Vaborbactam,0.29,2.94,-2.1,anionic
+1289,Valbenazine,1.31,1.71,2.5,cationic
+1290,Valdecoxib,0.75,1.4,2.5,neutral
+1291,Valproic Acid,0.14,0.16,0.25,anionic
+1292,Valsartan,0.22,0.49,-0.22,anionic
+1293,Valspodar,1.8,2.6,6.8,neutral
+1294,Vancomycin,0.54,1.3,-2.6,cationic
+1295,Vardenafil,3.0,13.0,0.56,cationic
+1296,Vecuronium Bromide,0.3,4.5,1.6,cationic
+1298,Venlafaxine,4.4,14.0,1.4,cationic
+1299,Verapamil,3.7,18.0,2.9,cationic
+1300,Verlukast,0.11,0.68,1.6,anionic
+1301,Vernakalant,1.8,8.29,1.6,cationic
+1302,Verteporfin-Mac,0.63,1.6,-0.66,cationic
+1303,Verteporfin-Mad,0.51,1.73,-3.5,zwitterionic
+1304,Vestipitant,3.8,5.09,4.3,cationic
+1306,Vilazodone,4.85,3.76,3.0,cationic
+1307,Vildagliptin,1.03,9.9,-1.5,cationic
+1308,Viloxazine,0.73,2.1,0.23,cationic
+1310,Vincristine,2.4,2.0,2.7,neutral
+1311,Vindesine,5.0,2.2,1.5,cationic
+1313,Vinpocetine,2.08,6.1,4.1,neutral
+1315,Vismodegib,0.23,0.01,3.9,neutral
+1317,Vorapaxar,3.74,0.34,5.1,neutral
+1318,Voriconazole,2.2,8.3,1.5,neutral
+1321,Vosaroxin,1.46,0.79,-0.23,zwitterionic
+1322,Warfarin,0.13,0.055,0.2,anionic
+1323,WCK771,0.25,0.54,1.6,anionic
+1324,Xamoterol,0.64,3.0,-1.1,cationic
+1326,XK469R,0.19,0.05,0.79,anionic
+1327,XR5000,3.41,16.31,1.5,cationic
+1328,Xylose_D,0.23,2.38,-2.5,neutral
+1329,Y 20811,0.37,2.91,1.2,anionic
+1330,YM 060,2.65,7.03,0.85,cationic
+1332,Yohimbine,0.48,14.6,2.1,neutral
+1333,Zalcitabine,0.54,5.6,-0.96,neutral
+1334,Zaleplon,1.3,16.0,1.8,neutral
+1336,Zanamivir,0.23,1.6,-6.1,zwitterionic
+1337,Zatebradine,1.6,8.4,1.6,cationic
+1338,ZD-9331,0.53,0.29,-2.6,zwitterionic
+1342,Ziprasidone,1.0,5.1,3.5,neutral
+1343,Ziracin,0.39,0.61,-0.36,anionic
+1345,Zolmitriptan,1.8,6.7,0.24,cationic
+1346,Zolpidem,0.54,4.3,3.0,neutral
+1347,Zonampanel,0.19,5.3,-3.8,anionic
+1348,Zoniporide,1.7,21.0,1.0,neutral
+1349,Zopiclone,1.3,3.3,0.045,cationic
+1351,Zotarolimus,1.3,0.67,5.4,neutral

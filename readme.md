@@ -1,1 +1,5 @@
-Ideally after uploading csv you could commit your csv file to the database but that functionality has not been thought out.
+Coding Challenge - to be updated
+
+Notes:
+Need to fix requirements.txt to not bloat the application.
+
