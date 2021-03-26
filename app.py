@@ -11,6 +11,7 @@ from sqlalchemy import create_engine
 st.set_page_config(
 	layout="wide",  # Can be "centered" or "wide". In the future also "dashboard", etc.
 	initial_sidebar_state="auto",  # Can be "auto", "expanded", "collapsed"
+    
 )
 
 st.title(""" 

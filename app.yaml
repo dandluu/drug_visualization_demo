@@ -2,7 +2,7 @@
 runtime: python38
 env: standard
 
-entrypoint: gunicorn -b :$PORT streamlit run:app
+entrypoint: gunicorn -b :$PORT streamlit run:app.py
 # Manual instancing, B8
 instance_class: B8
 
