@@ -16,7 +16,8 @@ st.set_page_config(
 
 st.title(""" 
 Drug Clearance Target Data Visualization Demo
-Dataset from Lombardo et al 2018
+Dan Luu 2021
+Modified Dataset from Lombardo et al 2018
 """)
 
 st.write("""
