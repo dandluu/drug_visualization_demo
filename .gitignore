@@ -5,6 +5,6 @@ db.py
 config.py
 scratch.py
 .vscode
-# .streamlit/
+.streamlit/
 __pycache__
 .gcloudignore
