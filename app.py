@@ -17,9 +17,9 @@ st.set_page_config(
 st.title(""" 
 Drug Clearance Target Data Visualization Demo
 Dan Luu 2021
-Modified Dataset from Lombardo et al 2018
 """)
 
+st.write("Modified Dataset from Lombardo et al 2018")
 st.write("""
 
 This is a demo site to show Altair visualizations from either a csv or database of pharmokinetic properties of drug clearance and steady state volume of distribution against LogD at 7.4pH.
@@ -40,7 +40,7 @@ The database has not yet been cleansed of outliers and missing data.
  'drug_name', 'moka_logd74, 'vdss', 'CL', and 'ionstate'. Other columns in the CSV will be ignored. More functionality can be added in terms of visualing the data and model building. 
  """)
 
-st.write("For more details on the challenge please see: [Github](https://github.com/dandluu/drug_visualization_demo) ")
+st.write("For more details on the demo challenge please see: [Github](https://github.com/dandluu/drug_visualization_demo) ")
 st.write("Connect with me on [LinkedIn](https://www.linkedin.com/in/dandluu/) ")
 st.write("Other Projects: [Craigstimate](craigstimate-301619.uc.r.appspot.com/) ")
 
