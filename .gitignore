@@ -1,5 +1,5 @@
 venv
-.ENV
+# .ENV
 env.py
 db.py
 config.py
@@ -7,3 +7,4 @@ scratch.py
 .vscode
 # .streamlit/
 __pycache__
+.gcloudignore

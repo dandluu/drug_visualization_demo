@@ -11,3 +11,6 @@ venv
 .vscode
 db.py
 config.py
+setup.sh
+Profile
+runtime.txt

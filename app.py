@@ -15,22 +15,38 @@ st.set_page_config(
 )
 
 st.title(""" 
-Drug Clearance Target Data Visualization 
+Drug Clearance Target Data Visualization Demo
 Dataset from Lombardo et al 2018
 """)
 
 st.write("""
-This is a demo site to show visualizations from either a csv or database of pharmokinetic properties of drug clearance and steady state volume of distribution against LogD at 7.4pH.  
+
+This is a demo site to show Altair visualizations from either a csv or database of pharmokinetic properties of drug clearance and steady state volume of distribution against LogD at 7.4pH.
+Part of this Challenege was to take a drug dataset and perform EDA and outlier removal on the data and then the data must be transformed to either a SQL or noSQL database. Then a machine learning model must be built from the database 
+ to demonstrate a complete data science workflow applied to a pharmocology domain. As an additional and bonus task, 
+ a web application was created to host the model and be used by other users to either retrain the model based on basic parameters or use the 'default' model to make predictions. 
+The model is not functional and this is only a basic demonstration and example of what this challenege can do. More precise models are protected by the owner.
+
+The **model state is NOT stored**, therefore you must click a button each time you would like to change a parameter or prediction
 
 """)
 
-st.write("""Linear Regression model is then created from the dataset and allows the user to set the random_state, training sample size, and use the model to make a prediction. 
-However it is just an example, this model can be replaced with a more complicated model with additional parameters and features to train on. 
+st.write("""A Linear Regression model is created from the dataset and allows the user to set the random_state, training sample size, and use the model to make a prediction. 
+However, this is only a demonstration, this model can be replaced with a more complicated model with additional parameters and features to train on. 
 The database has not yet been cleansed of outliers and missing data.
  
- The Upload CSV Funcationality works if you submit your file as a CSV with column titles properly named:
- 'drug_name', 'moke_logd74, 'vdss', 'CL', and 'ionstate'. Other columns in the CSV will be ignored. More functionality can be added in terms of visualing the data and model building.
+ The Upload CSV Funcationality only works if you submit your file as a CSV with appropiate column titles:
+ 'drug_name', 'moka_logd74, 'vdss', 'CL', and 'ionstate'. Other columns in the CSV will be ignored. More functionality can be added in terms of visualing the data and model building. 
  """)
+
+st.write("For more details on the challenge please see: [Github](https://github.com/dandluu/drug_visualization_demo) ")
+st.write("Connect with me on [LinkedIn](https://www.linkedin.com/in/dandluu/) ")
+st.write("Other Projects: [Craigstimate](craigstimate-301619.uc.r.appspot.com/) ")
+
+
+
+
+
 
 
 # First Sidebar ---------------------------------------------------------------------------------
@@ -150,7 +166,7 @@ def build_model(df, random_state=0, test_size=0.2):
     # print(f'prediction code model: {type(model)}')
     
     prediction = model.predict(np.array(logD).reshape(-1,1))
-    st.sidebar.write(f'Predicted Clearance from LogD of {logD} : {prediction[0]}')
+    st.sidebar.write(f'Predicted Clearance from LogD of {logD} : {round(prediction[0][0], 2)}')
 
     return model
 
@@ -200,7 +216,7 @@ if uploaded_file is not None:
 else:
     st.info('Waiting for CSV file to be uploaded.')
 
-    if st.button('Use Data from Database instead or Retrain your model'):
+    if st.button('Use Data from database with no outliers removed'):
 
         engine = create_engine(SQLALCHEMY_DATABASE_URL)
 
@@ -217,7 +233,7 @@ else:
         start()
 
     elif st.button('Use the cleaned data with some outliers removed'):
-        df= pd.read_csv("javelin_cleaned_data.csv")
+        df= pd.read_csv("Drug_cleaned_data.csv")
 
         st.markdown('1.1. Glimpse of dataset')
 
